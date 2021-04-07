@@ -1,0 +1,21 @@
+@charset "UTF-8";
+	table{
+		margin : auto;
+		width : 800px;
+		border : 1px solid gray;
+		text-align: center;
+	}
+	.td_title{
+		font-weight: bold;
+		font-size: x-large;
+	}
+	
+	h2{
+  text-align: center;
+}
+	h4{
+  text-align: center;
+}
+	body{
+  text-align: center;
+}
