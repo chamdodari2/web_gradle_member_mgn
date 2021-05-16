@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>회원관리 시스템 회원가입 페이지</title>
-<link rel="stylesheet" href="css/joinform_style.css">
+<link rel="stylesheet" href="<%=request.getContextPath() %>/css/joinform_style.css"><!--css부터만 있었는데 절대경로로 모두 적어줬당  -->
 
 </head>
 <body>
